@@ -1,0 +1,13 @@
+{
+  "name": "calc on Angular Material",
+  "description": "A training project for FCC",
+  "version": "0.1.1",
+  "homepage": "",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular-material": "^1.1.0",
+    "angular": "^1.5.8",
+    "normalize-css": "normalize.css#^4.2.0"
+  }
+}
